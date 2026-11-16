@@ -1,0 +1,10 @@
+metric,value
+total_records,30000.0
+confirmed_records,21963.0
+cancelled_records,5779.0
+failed_records,2258.0
+cancellation_rate_pct,19.263333333333332
+confirmation_rate_pct,73.21
+failure_rate_pct,7.526666666666666
+missing_checkin_records,5468.0
+missing_checkin_pct,18.226666666666667
